@@ -1,1 +1,0 @@
-printf("Enter the values of a and b");
